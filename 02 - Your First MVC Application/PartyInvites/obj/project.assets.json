@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kiit1\\source\\repos\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+      "projectUniqueName": "C:\\Users\\kiit1\\Documents\\GitHub\\Pro-ASP.NET-Core-MVC-2\\02 - Your First MVC Application\\PartyInvites\\PartyInvites.csproj",
       "projectName": "PartyInvites",
-      "projectPath": "C:\\Users\\kiit1\\source\\repos\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
+      "projectPath": "C:\\Users\\kiit1\\Documents\\GitHub\\Pro-ASP.NET-Core-MVC-2\\02 - Your First MVC Application\\PartyInvites\\PartyInvites.csproj",
       "packagesPath": "C:\\Users\\kiit1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kiit1\\source\\repos\\PartyInvites\\PartyInvites\\obj\\",
+      "outputPath": "C:\\Users\\kiit1\\Documents\\GitHub\\Pro-ASP.NET-Core-MVC-2\\02 - Your First MVC Application\\PartyInvites\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
