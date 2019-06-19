@@ -5,7 +5,6 @@ C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\05 - Working with Razor\R
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\05 - Working with Razor\Razor\bin\Debug\netcoreapp2.1\Razor.pdb
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\05 - Working with Razor\Razor\bin\Debug\netcoreapp2.1\Razor.Views.dll
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\05 - Working with Razor\Razor\bin\Debug\netcoreapp2.1\Razor.Views.pdb
-C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\05 - Working with Razor\Razor\obj\Debug\netcoreapp2.1\Razor.csprojAssemblyReference.cache
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\05 - Working with Razor\Razor\obj\Debug\netcoreapp2.1\Razor.csproj.CoreCompileInputs.cache
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\05 - Working with Razor\Razor\obj\Debug\netcoreapp2.1\Razor.RazorAssemblyInfo.cache
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\05 - Working with Razor\Razor\obj\Debug\netcoreapp2.1\Razor.RazorAssemblyInfo.cs

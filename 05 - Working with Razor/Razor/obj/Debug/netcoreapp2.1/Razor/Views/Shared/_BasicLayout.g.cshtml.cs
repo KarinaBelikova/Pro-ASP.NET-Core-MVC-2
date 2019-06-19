@@ -49,7 +49,7 @@ using Razor.Models;
             WriteLiteral("<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(27, 267, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c8973e1388df4342b8eb5b45fd3f19ff", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "779f2fc46bba4a238f4ef06df8e95c72", async() => {
                 BeginContext(33, 72, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>");
                 EndContext();
@@ -79,7 +79,7 @@ using Razor.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(296, 108, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "cd90a0e1c3ca42e0acdc8bbcc2922015", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "406d6b1ad2fd4a85a562057d4876188d", async() => {
                 BeginContext(302, 68, true);
                 WriteLiteral("\r\n    <h1>Product Information</h1>\r\n    <div id=\"mainDiv\">\r\n        ");
                 EndContext();

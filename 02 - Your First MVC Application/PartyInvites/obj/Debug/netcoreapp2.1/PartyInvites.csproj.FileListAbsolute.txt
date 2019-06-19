@@ -41,7 +41,6 @@ C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\02 - Your First MVC Appli
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\02 - Your First MVC Application\PartyInvites\bin\Debug\netcoreapp2.1\PartyInvites.pdb
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\02 - Your First MVC Application\PartyInvites\bin\Debug\netcoreapp2.1\PartyInvites.Views.dll
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\02 - Your First MVC Application\PartyInvites\bin\Debug\netcoreapp2.1\PartyInvites.Views.pdb
-C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\02 - Your First MVC Application\PartyInvites\obj\Debug\netcoreapp2.1\PartyInvites.csprojAssemblyReference.cache
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\02 - Your First MVC Application\PartyInvites\obj\Debug\netcoreapp2.1\PartyInvites.csproj.CoreCompileInputs.cache
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\02 - Your First MVC Application\PartyInvites\obj\Debug\netcoreapp2.1\PartyInvites.RazorAssemblyInfo.cache
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\02 - Your First MVC Application\PartyInvites\obj\Debug\netcoreapp2.1\PartyInvites.RazorAssemblyInfo.cs

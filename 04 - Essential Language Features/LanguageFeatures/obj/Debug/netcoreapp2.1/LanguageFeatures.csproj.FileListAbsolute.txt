@@ -5,7 +5,6 @@ C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\04 - Essential Language F
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\04 - Essential Language Features\LanguageFeatures\bin\Debug\netcoreapp2.1\LanguageFeatures.pdb
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\04 - Essential Language Features\LanguageFeatures\bin\Debug\netcoreapp2.1\LanguageFeatures.Views.dll
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\04 - Essential Language Features\LanguageFeatures\bin\Debug\netcoreapp2.1\LanguageFeatures.Views.pdb
-C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\04 - Essential Language Features\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.csprojAssemblyReference.cache
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\04 - Essential Language Features\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.csproj.CoreCompileInputs.cache
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\04 - Essential Language Features\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.RazorAssemblyInfo.cache
 C:\Users\kiit1\Documents\GitHub\Pro-ASP.NET-Core-MVC-2\04 - Essential Language Features\LanguageFeatures\obj\Debug\netcoreapp2.1\LanguageFeatures.RazorAssemblyInfo.cs
